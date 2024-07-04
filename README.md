@@ -9,7 +9,7 @@ python3 -m venv .venv
 
 # Install EMR CLI:
 ```
-source venv/bin/activate
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
